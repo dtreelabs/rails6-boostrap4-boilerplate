@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is get started project for 
+1. Rails 6
+2. Bootstrap 4.
 
-Things you may want to cover:
+Clone the project and build your projet on the top of it. 
 
-* Ruby version
+* Ruby version 2.6.4
 
-* System dependencies
+* Rails Version 6.0.0
 
-* Configuration
+* Boostrap 4
 
-* Database creation
 
-* Database initialization
+## Setting it up
 
-* How to run the test suite
+1. yarn
+2. yarn install
+3. rails s 
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+it must start your porject
